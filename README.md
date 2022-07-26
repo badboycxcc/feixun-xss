@@ -18,3 +18,13 @@
 ```
 current_page=</script><script>alert("XSS")</script>;//
 ```
+
+![image](https://user-images.githubusercontent.com/72059221/180924002-2a856f5e-36c6-4a18-8470-91db505da403.png)  
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/72059221/180924075-f26ca398-50a4-4749-9a77-59b1d1c1fbce.png)
+
+![image](https://user-images.githubusercontent.com/72059221/180924150-5c7565db-4423-4f3b-acb4-2d01178e355c.png)
