@@ -1,6 +1,6 @@
 # feixun-xss
 
-## Affected models: FIR302B, FIR151B A2
+## Affected models: FIR302B、FIR302B A2、FIR151B A2 
 
 
 ### FIR302B   
