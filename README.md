@@ -1,4 +1,5 @@
 # feixun-xss
+# CVE-2022-37116
 
 ## Affected models: FIR302B、FIR302B A2、FIR151B A2 
 
